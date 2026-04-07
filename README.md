@@ -48,7 +48,7 @@
 ---
 
 ### 📂 项目探索 | Project Exploration
-**你可以从我的代码仓库中了解我做的代码尝试：**
+**您可以从我的代码仓库中了解我做的代码尝试：**
 **Feel free to explore my repositories to see my coding practices and implementations:**
 
 - 🧪 **[ESOL 溶解度预测 | ESOL Solubility Prediction]**：结合化学描述符与 XGBoost 的 AI4S 实践。
