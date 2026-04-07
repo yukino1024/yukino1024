@@ -15,7 +15,8 @@
 #### ⚗️ 计算化学与领域背景 | CompChem & Domain Expertise
 - **计算化学**: 熟悉 **DFT (密度泛函理论)** 计算、了解分子动力学模拟及相关软件。
 - **理论体系**: 熟练掌握**无机、分析、有机、物化**四大化学理论，具备深厚的底层化学逻辑。并且具备**生物化学、量子化学、配位化学、催化化学**等化学细分学科知识。
-- **化学信息学**: ![RDKit](https://img.shields.io/badge/RDKit-666666?style=flat&logo=rdkit&logoColor=white)
+- **化学信息学**:
+- ![RDKit](https://img.shields.io/badge/RDKit-666666?style=flat&logo=rdkit&logoColor=white)
 
 
 - **编程语言 | Languages**
