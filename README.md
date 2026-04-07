@@ -37,7 +37,8 @@
 
 #### 💻 计算机与 AI 技能 | CS & AI Skills
 - **编程语言 | Languages**
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (Pandas, NumPy, Matplotlib)
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  - `Pandas`, `NumPy`, `Matplotlib`
 - **人工智能 | Artificial Intelligence**
   - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
   - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
