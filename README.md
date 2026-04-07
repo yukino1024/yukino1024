@@ -5,8 +5,8 @@
   - 具备扎实的化学理论体系与计算化学研究基础。
   - Solid foundation in theoretical chemistry and computational chemistry research.
 - 🎯 **研究志向 | Research Interests**
-  - 致力于探索 **AI for Science (AI4S)**，特别是分子表示学习与药物发现的交叉应用。
-  - Committed to exploring **AI for Science (AI4S)**, specifically the intersection of molecular representation and drug discovery.
+  - 致力于探索 **AI for Science (AI4S)**，特别是**分子表示学习**与**药物发现**。
+  - Committed to exploring **AI for Science (AI4S)**, specifically the intersection of **molecular representation** and **drug discovery**.
 - 💻 **跨学科进阶 | Bridging Disciplines**
   - 正在将**计算化学 (CompChem)** 的物理洞察力与**深度学习**技术相结合，探索分子的数字化表达。
   - Integrating physical insights from **Computational Chemistry** with **Deep Learning** to explore digital molecular representations.
