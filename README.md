@@ -1,14 +1,10 @@
 # 👋 你好，我是 贺锦翔 | Hi, I'm He Jinxiang
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yukino1024&show_icons=true&theme=transparent" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukino1024&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
 
 ### 🔬 关于我 | About Me
 - 🎓 **化学专业本科生**，致力于探索 **AI for Science (AI4S)** 的无限可能。
 - 🧪 专注于**分子表示学习 (Molecular Representation)** 与**药物发现**。
-- 💻 从高中的游戏开发梦出发，经由 Python 启蒙，正迈向深度学习的科研殿堂。
+- 💻 从本科的计算化学研究，正迈向深度学习的科研殿堂。
 - 🎯 **2027 秋季 Ph.D. 申请者** | Prospective 2027 Fall Ph.D. Applicant.
 
 ---
