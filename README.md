@@ -47,6 +47,7 @@
 
 ### 📂 项目探索 | Project Exploration
 **您可以从我的代码仓库中了解我做的代码尝试：**
+
 **Feel free to explore my repositories to see my coding practices and implementations:**
 
 - 🧪 **[ESOL-Solubility-Prediction]**：结合**物理化学描述符** 与 **机器学习+神经网络** 的 AI4S 实践。
