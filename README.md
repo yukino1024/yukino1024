@@ -32,8 +32,6 @@
   - Extensive knowledge in **Biochemistry, Quantum Chemistry, Coordination Chemistry, and Catalytic Chemistry**.
 - **化学信息学 | Cheminformatics**
   - ![RDKit](https://img.shields.io/badge/RDKit-666666?style=flat&logo=rdkit&logoColor=white) 
-  - 能够高效进行分子特征提取与数据预处理。
-  - Efficient molecular feature extraction and data preprocessing.
 
 #### 💻 计算机与 AI 技能 | CS & AI Skills
 - **编程语言 | Languages**
