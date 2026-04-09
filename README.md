@@ -56,9 +56,9 @@
   - Learning **Pytorch** and **DL fundamentals**.
 - 💡 **[CS50-Homeworks]**：我的CS50AI课程作业，这是我**第一次真正接触AI**。
   - My CS50AI coursework—this was **my first real encounter with AI**.
-- 📊 **[Qingdao-Weather-Analysis]**：我的数据分析(Pandas)数据分析课程设计。利用**Pandas**对青岛近三年的天气数据进行分析。
+- 📊 **[Qingdao-Weather-Analysis]**：我的数据分析(Pandas)课程设计。利用**Pandas**对青岛近三年的天气数据进行分析。
   - My **Pandas** data analysis project, where I analyzed Qingdao's weather data from the past three years.
-- 🕹️ **[PyTetris-Enhanced]**：我的Python程序设计课程设计。利用Pygame,采用**面向对象**思想复刻经典游戏俄罗斯方块。
+- 🕹️ **[PyTetris-Enhanced]**：我的程序设计(Python)课程设计。利用Pygame,采用**面向对象**思想复刻经典游戏俄罗斯方块。
   - Final project for my Python Programming course: A classic Tetris remake using Pygame and **Object-Oriented Design**.
 
 
