@@ -31,7 +31,7 @@
   - 具备**生物化学、量子化学、配位化学、催化化学**等细分学科知识。
   - Extensive knowledge in **Biochemistry, Quantum Chemistry, Coordination Chemistry, and Catalytic Chemistry**.
 - **化学信息学 | Cheminformatics**
-  - <img src="https://img.shields.io/badge/RDKit-61963F?style=flat&logo=rdkit&logoColor=white" align="center"> `Cheminformatics`
+  - <img src="https://img.shields.io/badge/RDKit-61963F?style=flat&logo=rdkit&logoColor=white" align="center"> 
 
 #### 💻 计算机与 AI 技能 | CS & AI Skills
 - **编程语言 | Languages**
@@ -39,8 +39,8 @@
   - `Pandas`, `NumPy`, `Matplotlib`
   - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" align="center"> (a little bit)
 - **人工智能 | Artificial Intelligence**
-  - <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" align="center"> `PyTorch Geometric (PyG)`
-  - <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" align="center"> `Random Forest`, `XGBoost`
+  - <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" align="center"> 
+  - <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" align="center"> 
   - 掌握经典机器学习算法与深度学习基础。
   - Proficient in classical ML algorithms and deep learning fundamentals.
 
