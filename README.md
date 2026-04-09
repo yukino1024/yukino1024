@@ -54,7 +54,7 @@
   - An AI4S practice integrating **physicochemical descriptors** with **Machine Learning** and **Neural Networks**.
 - 🚀 **[Learning-PyTorch]**：跟随课程，学习**Pytorch**与**深度学习基础**。
   - Learning **Pytorch** and **DL fundamentals**.
-- ❄️ **[CS50-Homeworks]**：我的CS50AI课程作业，这是我**第一次真正接触AI**。
+- 💡 **[CS50-Homeworks]**：我的CS50AI课程作业，这是我**第一次真正接触AI**。
   - My CS50AI coursework—this was **my first real encounter with AI**.
 - 📊 **[Qingdao-Weather-Analysis]**：我的数据分析(Pandas)数据分析课程设计。利用**Pandas**对青岛近三年的天气数据进行分析。
   - My **Pandas** data analysis project, where I analyzed Qingdao's weather data from the past three years.
