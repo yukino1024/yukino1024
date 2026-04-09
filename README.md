@@ -31,7 +31,7 @@
   - 具备**生物化学、量子化学、配位化学、催化化学**等细分学科知识。
   - Extensive knowledge in **Biochemistry, Quantum Chemistry, Coordination Chemistry, and Catalytic Chemistry**.
 - **化学信息学 | Cheminformatics**
-  - ![RDKit](https://img.shields.io/badge/RDKit-666666?style=flat&logo=rdkit&logoColor=white) 
+  - ![RDKit]<https://img.shields.io/badge/RDKit-666666?style=flat&logo=rdkit&logoColor=white align="center">
 
 #### 💻 计算机与 AI 技能 | CS & AI Skills
 - **编程语言 | Languages**
