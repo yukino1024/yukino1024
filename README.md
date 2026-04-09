@@ -51,16 +51,16 @@
 **您可以从我的代码仓库中了解我做的代码尝试：**
 **Feel free to explore my repositories to see my coding practices and implementations:**
 
-- 🧪 **[ESOL 溶解度预测 | ESOL Solubility Prediction]**：结合化学描述符与 XGBoost 的 AI4S 实践。
-  - An **AI4S practice** integrating chemical descriptors with **XGBoost** for molecular property prediction.
-- 🚀 **[PyTorch 学习记录 | PyTorch Learning Journey]**：跟随刘二大人课程，系统实现线性回归、反向传播、CNN 及 RNN。
-  - Systematic implementation of **DL fundamentals**.
-- ❄️ **[Harvard CS50AI]**：掌握 AI 底层算法逻辑的转折点，理解 AI 作为科研生产力的核心本质。
-  - The **turning point** in mastering AI algorithms and understanding AI as a research productivity tool.
-- 📊 **[天气数据工程 | Weather Data Engineering]**：展示端到端的数据爬取、清洗与数据库持久化能力。
-  - Demonstrates **end-to-end capabilities** in data crawling, preprocessing, and database persistence.
-- 🕹️ **[Pygame 启蒙项目 | Pygame Enlightenment Project]**：展现早期对复杂逻辑与面向对象编程 (OOP) 的掌握。
-  - Showcases early mastery of **complex logic** and **Object-Oriented Programming (OOP)**.
+- 🧪 **[ESOL 溶解度预测 | ESOL Solubility Prediction]**：结合**化学描述符**与 **XGBoost** 的 AI4S 实践。
+  - An AI4S practice integrating **chemical descriptors** with **XGBoost** for molecular property prediction.
+- 🚀 **[Learning-PyTorch]**：跟随刘二大人课程，学习**Pytorch**与**深度学习基础**。
+  - Learning **Pytorch** and **DL fundamentals**.
+- ❄️ **[CS50-Homeworks]**：我的CS50AI课程作业，这是我**第一次真正接触AI**。
+  - My CS50AI coursework—this was **my first real encounter with AI**.
+- 📊 **[Qingdao-Weather-Analysis]**：我的数据分析(Pandas)数据分析课程设计。利用**Pandas**对青岛近三年的天气数据进行分析。
+  - My **Pandas** data analysis project, where I analyzed Qingdao's weather data from the past three years.
+- 🕹️ **[PyTetris-Enhanced]**：我的Python程序设计课程设计。利用Pygame,采用**面向对象**思想复刻经典游戏俄罗斯方块。
+  - Final project for my Python Programming course: A classic Tetris remake using Pygame and **Object-Oriented Design**.
 
 
 
