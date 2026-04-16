@@ -1,4 +1,4 @@
-# 👋 你好，我是 贺锦翔 | Hi, I'm He Jinxiang
+# 👋 你好，我是贺锦翔 | Hi, I'm He Jinxiang
 
 ### 🔬 关于我 | About Me
 - 🎓 **化学专业本科生 | Chemistry Undergraduate**
@@ -28,8 +28,8 @@
 - **理论体系 | Theoretical Framework**
   - 熟练掌握**无机、分析、有机、物化**四大化学理论。
   - Mastery of the four pillars of chemistry: **Inorganic, Analytical, Organic, and Physical Chemistry**.
-  - 具备**生物化学、量子化学、配位化学、催化化学**等细分学科知识。
-  - Extensive knowledge in **Biochemistry, Quantum Chemistry, Coordination Chemistry, and Catalytic Chemistry**.
+  - 具备**生物化学、计算化学、配位化学、催化化学**等细分学科知识。
+  - Extensive knowledge in **Biochemistry, Computational Chemistry, Coordination Chemistry, and Catalytic Chemistry**.
 - **化学信息学 | Cheminformatics**
   - <img src="https://img.shields.io/badge/RDKit-61963F?style=flat&logo=rdkit&logoColor=white" align="center"> 
 
