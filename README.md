@@ -62,5 +62,17 @@
 - 🕹️ **[PyTetris-Enhanced]**：我的程序设计(Python)课程设计。利用Pygame,采用**面向对象**思想复刻经典游戏俄罗斯方块。
   - Final project for my Python Programming course: A classic Tetris remake using Pygame and **Object-Oriented Design**.
 
+### 📬 联系我 | Contact Me
 
+<p align="left">
+  <a href="mailto:yourname@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" />
+  </a>
+  <a href="https://github.com/你的ID">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+</p>
+
+- 📧 **Email**: [yukino1024@163.com](mailto:[yukino1024@163.com)
 
