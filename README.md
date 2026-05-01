@@ -41,8 +41,8 @@
 - **人工智能 | Artificial Intelligence**
   - <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" align="center"> 
   - <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" align="center"> 
-  - 掌握经典机器学习算法与深度学习基础。
-  - Proficient in classical ML algorithms and deep learning fundamentals.
+  - 了解经典机器学习算法与深度学习基础。
+  - Exploring classical machine learning algorithms and deep learning fundamentals.
 
 ---
 
