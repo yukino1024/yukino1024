@@ -30,6 +30,8 @@
   - Mastery of the four pillars of chemistry: **Inorganic, Analytical, Organic, and Physical Chemistry**.
   - 具备**生物化学、计算化学、配位化学、催化化学**等细分学科知识。
   - Extensive knowledge in **Biochemistry, Computational Chemistry, Coordination Chemistry, and Catalytic Chemistry**.
+  - 良好的数理基础：**高等数学、线性代数、概率论与数理统计**。
+  - Solid mathematical foundation: **Advanced Mathematics, Linear Algebra, and Probability and Statistics**.
 - **化学信息学 | Cheminformatics**
   - <img src="https://img.shields.io/badge/RDKit-61963F?style=flat&logo=rdkit&logoColor=white" align="center"> 
 
