@@ -14,9 +14,9 @@
 
 - ⚛️ **计算模拟 | Computational Modeling**
   - Density Functional Theory (DFT)
--  💻**编程与数据分析 | Programming & Data Analysis**
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" align="center">
-  - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" align="center">
+- 💻**编程与数据分析 | Programming & Data Analysis**
+   - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" align="center">
+   - <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" align="center">
 - 🤖 **人工智能 | Artificial Intelligence**
   - <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" align="center">
   - <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" align="center">
