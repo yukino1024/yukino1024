@@ -5,7 +5,7 @@
 - 🎓 **中国科学技术大学 & 苏州实验室 联合培养博士生（2027级）**
   - Incoming Joint Ph.D. Student at **USTC & Suzhou Laboratory** (Class of 2027).
 - 🔋 **未来研究方向 | Future Research Interests**
-  - 固态电池跨尺度设计与人工智能辅助材料设计。
+  - 固态电池跨尺度计算与人工智能辅助材料设计。
   - Multiscale Modeling of Solid-State Batteries & AI-Assisted Materials Design.
 
 ---
