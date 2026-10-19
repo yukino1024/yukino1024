@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ 技术栈 | Tech Stack
+### 🛠️ 技能与工具（持续学习中） | Skills & Tools(Continuously Learning)
 
 - ⚛️ **计算模拟 | Computational Modeling**
   - Density Functional Theory (DFT)
